@@ -15,5 +15,8 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
+#unity-container {
+  margin: 0 auto !important; 
+}
 </style>
