@@ -16,6 +16,11 @@ export default {
 </script>
 
 <style>
+@media screen and (max-width: 640px) {
+   #unity-container {
+      display: none;
+   } 
+}
 #unity-container {
   margin: 0 auto !important; 
 }
